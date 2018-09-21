@@ -3,7 +3,7 @@ Initially start with 50, finish them and add another 50. This is going to take a
  since the protocol incorporates more than half of these.
 Topics to split:
 philosophy, tech, finance, economics, business, math, misc
-
+ 
 
 Pareto equilibrium/improvement
 80/20 rule
