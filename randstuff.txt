@@ -1,0 +1,32 @@
+This is going to be a one-(or maybe two)-page brief dive into these various topics. I.e. a brain dump with some further research.
+Initially start with 50, finish them and add another 50. This is going to take a while. The only topic that will definitely take more than 2 pages is Bitcoin
+ since the protocol incorporates more than half of these.
+Topics to split:
+philosophy, tech, finance, economics, business, math, misc
+
+
+Pareto equilibrium/improvement
+80/20 rule
+Game Theory (Schelling/focal point)
+Zero-sum game
+Austrian vs Keynesian economics
+Economies of scale/scope
+Cantillon effect
+FOSS (e.g. UNIX modularity)
+Free markets/choice (laissez-faire)
+Symmetric vs asymmetric keys (PKI)
+TCP/IP (OSI vs TCP stack)
+Human bias
+ABC->ENIAC->...
+The Lindy Effect
+Egalitarianism
+Pi + circles
+The Golden Ratio
+Cartesian vs Polar coordinates (planes)
+Prisoner's Dilemma
+Byzantine General's Problem/BFT
+Urbit
+Distributed Systems
+P2P protocols
+IPFS
+Normal vs Empirical distribution
